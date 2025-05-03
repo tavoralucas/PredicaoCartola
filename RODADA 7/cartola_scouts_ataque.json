@@ -1,0 +1,3745 @@
+[
+  {
+    "nome": "PEDRO",
+    "time": "FLA",
+    "posicao": "ATACANTE",
+    "jogos": 3,
+    "preco": 24.79,
+    "scouts": {
+      "G": "4",
+      "A": "1",
+      "FT": "1",
+      "FD": "4",
+      "FF": "1",
+      "FS": "1",
+      "PP": "1",
+      "I": "0",
+      "PS": "1",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ARRASCAETA",
+    "time": "FLA",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 21.86,
+    "scouts": {
+      "G": "5",
+      "A": "3",
+      "FT": "1",
+      "FD": "0",
+      "FF": "3",
+      "FS": "7",
+      "PP": "0",
+      "I": "1",
+      "PS": "1",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ALAN PATRICK",
+    "time": "INT",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 16.52,
+    "scouts": {
+      "G": "2",
+      "A": "3",
+      "FT": "0",
+      "FD": "2",
+      "FF": "2",
+      "FS": "4",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "VEGETTI",
+    "time": "VAS",
+    "posicao": "ATACANTE",
+    "jogos": 5,
+    "preco": 15.44,
+    "scouts": {
+      "G": "3",
+      "A": "1",
+      "FT": "1",
+      "FD": "1",
+      "FF": "3",
+      "FS": "4",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "IGOR JESUS",
+    "time": "BOT",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 14.91,
+    "scouts": {
+      "G": "2",
+      "A": "1",
+      "FT": "2",
+      "FD": "9",
+      "FF": "9",
+      "FS": "16",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "BERNABÉI",
+    "time": "INT",
+    "posicao": "LATERAL",
+    "jogos": 5,
+    "preco": 14.78,
+    "scouts": {
+      "G": "0",
+      "A": "2",
+      "FT": "0",
+      "FD": "1",
+      "FF": "3",
+      "FS": "6",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "MATHEUS PEREIRA",
+    "time": "CRU",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 14.77,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "3",
+      "FF": "4",
+      "FS": "21",
+      "PP": "0",
+      "I": "2",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "BRAITHWAITE",
+    "time": "GRE",
+    "posicao": "ATACANTE",
+    "jogos": 4,
+    "preco": 14.54,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "2",
+      "FF": "3",
+      "FS": "5",
+      "PP": "0",
+      "I": "2",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ARIAS",
+    "time": "FLU",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 13.99,
+    "scouts": {
+      "G": "1",
+      "A": "1",
+      "FT": "1",
+      "FD": "2",
+      "FF": "4",
+      "FS": "17",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "KAIO JORGE",
+    "time": "CRU",
+    "posicao": "ATACANTE",
+    "jogos": 5,
+    "preco": 13.59,
+    "scouts": {
+      "G": "3",
+      "A": "1",
+      "FT": "0",
+      "FD": "1",
+      "FF": "6",
+      "FS": "8",
+      "PP": "1",
+      "I": "1",
+      "PS": "1",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "WESLEY",
+    "time": "INT",
+    "posicao": "ATACANTE",
+    "jogos": 5,
+    "preco": 13.54,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "2",
+      "FF": "3",
+      "FS": "12",
+      "PP": "0",
+      "I": "2",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "PAULO HENRIQUE",
+    "time": "VAS",
+    "posicao": "LATERAL",
+    "jogos": 4,
+    "preco": 13.26,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "1",
+      "FD": "1",
+      "FF": "1",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "FILIPE LUÍS",
+    "time": "FLA",
+    "posicao": "TÉCNICO",
+    "jogos": 6,
+    "preco": 13.18,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "4"
+    }
+  },
+  {
+    "nome": "RONY",
+    "time": "CAM",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 12.78,
+    "scouts": {
+      "G": "2",
+      "A": "0",
+      "FT": "0",
+      "FD": "9",
+      "FF": "4",
+      "FS": "6",
+      "PP": "0",
+      "I": "6",
+      "PS": "1",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "WESLEY",
+    "time": "FLA",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 12.38,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "0",
+      "FF": "3",
+      "FS": "14",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ABEL FERREIRA",
+    "time": "PAL",
+    "posicao": "TÉCNICO",
+    "jogos": 6,
+    "preco": 12.11,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "4"
+    }
+  },
+  {
+    "nome": "JUNINHO CAPIXABA",
+    "time": "RBB",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 11.91,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "2",
+      "FF": "4",
+      "FS": "12",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "MATHEUZINHO",
+    "time": "VIT",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 11.86,
+    "scouts": {
+      "G": "2",
+      "A": "0",
+      "FT": "0",
+      "FD": "5",
+      "FF": "0",
+      "FS": "14",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "PIQUEREZ",
+    "time": "PAL",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 11.84,
+    "scouts": {
+      "G": "2",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "4",
+      "FS": "3",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "GUSTAVO SCARPA",
+    "time": "CAM",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 11.36,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "3",
+      "FF": "6",
+      "FS": "8",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "PHILIPPE COUTINHO",
+    "time": "VAS",
+    "posicao": "MEIA",
+    "jogos": 4,
+    "preco": 11.36,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "3",
+      "FF": "6",
+      "FS": "6",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ESCOBAR",
+    "time": "SAN",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 11.32,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "7",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "MATHEUZINHO",
+    "time": "COR",
+    "posicao": "LATERAL",
+    "jogos": 4,
+    "preco": 11.3,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "2",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JOHN",
+    "time": "BOT",
+    "posicao": "GOLEIRO",
+    "jogos": 6,
+    "preco": 11.17,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "YURI ALBERTO",
+    "time": "COR",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 11,
+    "scouts": {
+      "G": "1",
+      "A": "1",
+      "FT": "0",
+      "FD": "3",
+      "FF": "8",
+      "FS": "6",
+      "PP": "0",
+      "I": "2",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ESTÊVÃO",
+    "time": "PAL",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 10.77,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "1",
+      "FF": "7",
+      "FS": "11",
+      "PP": "0",
+      "I": "4",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "RICHARD RÍOS",
+    "time": "PAL",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 10.74,
+    "scouts": {
+      "G": "0",
+      "A": "2",
+      "FT": "0",
+      "FD": "1",
+      "FF": "3",
+      "FS": "14",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LUCIANO JUBA",
+    "time": "BAH",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 10.72,
+    "scouts": {
+      "G": "1",
+      "A": "3",
+      "FT": "0",
+      "FD": "0",
+      "FF": "2",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "CÁSSIO",
+    "time": "CRU",
+    "posicao": "GOLEIRO",
+    "jogos": 6,
+    "preco": 10.68,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "CLEBER XAVIER",
+    "time": "SAN",
+    "posicao": "TÉCNICO",
+    "jogos": 0,
+    "preco": 10.56,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "EDUARDO SASHA",
+    "time": "RBB",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 10.53,
+    "scouts": {
+      "G": "2",
+      "A": "1",
+      "FT": "1",
+      "FD": "7",
+      "FF": "5",
+      "FS": "7",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "VITINHO",
+    "time": "BOT",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 10.51,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ROGER MACHADO",
+    "time": "INT",
+    "posicao": "TÉCNICO",
+    "jogos": 6,
+    "preco": 10.37,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "2"
+    }
+  },
+  {
+    "nome": "HUGO SOUZA",
+    "time": "COR",
+    "posicao": "GOLEIRO",
+    "jogos": 1,
+    "preco": 10.23,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "VICTOR GABRIEL",
+    "time": "INT",
+    "posicao": "ZAGUEIRO",
+    "jogos": 1,
+    "preco": 10.2,
+    "scouts": {
+      "G": "2",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "EVERTON",
+    "time": "FLA",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 10.18,
+    "scouts": {
+      "G": "1",
+      "A": "1",
+      "FT": "0",
+      "FD": "2",
+      "FF": "5",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "GERSON",
+    "time": "FLA",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 10.13,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "4",
+      "FF": "2",
+      "FS": "11",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "FÁBIO",
+    "time": "FLU",
+    "posicao": "GOLEIRO",
+    "jogos": 6,
+    "preco": 10.08,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "DORIVAL JÚNIOR",
+    "time": "COR",
+    "posicao": "TÉCNICO",
+    "jogos": 0,
+    "preco": 9.96,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LEONARDO JARDIM",
+    "time": "CRU",
+    "posicao": "TÉCNICO",
+    "jogos": 6,
+    "preco": 9.92,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "3"
+    }
+  },
+  {
+    "nome": "CUCA",
+    "time": "CAM",
+    "posicao": "TÉCNICO",
+    "jogos": 6,
+    "preco": 9.7,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "1"
+    }
+  },
+  {
+    "nome": "EVERSON",
+    "time": "CAM",
+    "posicao": "GOLEIRO",
+    "jogos": 6,
+    "preco": 9.67,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LÉO PEREIRA",
+    "time": "FLA",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 9.66,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "DE LA CRUZ",
+    "time": "FLA",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 9.56,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "2",
+      "FF": "0",
+      "FS": "7",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "RENATO GAÚCHO",
+    "time": "FLU",
+    "posicao": "TÉCNICO",
+    "jogos": 5,
+    "preco": 9.55,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "3"
+    }
+  },
+  {
+    "nome": "MANO MENEZES",
+    "time": "GRE",
+    "posicao": "TÉCNICO",
+    "jogos": 2,
+    "preco": 9.53,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "PEDRO RAUL",
+    "time": "CEA",
+    "posicao": "ATACANTE",
+    "jogos": 5,
+    "preco": 9.51,
+    "scouts": {
+      "G": "2",
+      "A": "0",
+      "FT": "1",
+      "FD": "2",
+      "FF": "7",
+      "FS": "11",
+      "PP": "0",
+      "I": "4",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "DIEGO",
+    "time": "CEA",
+    "posicao": "LATERAL",
+    "jogos": 5,
+    "preco": 9.44,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "15",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "RENATO PAIVA",
+    "time": "BOT",
+    "posicao": "TÉCNICO",
+    "jogos": 6,
+    "preco": 9.31,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "2"
+    }
+  },
+  {
+    "nome": "FERNANDO SEABRA",
+    "time": "RBB",
+    "posicao": "TÉCNICO",
+    "jogos": 6,
+    "preco": 9.22,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "4"
+    }
+  },
+  {
+    "nome": "REINALDO",
+    "time": "MIR",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 9.21,
+    "scouts": {
+      "G": "4",
+      "A": "0",
+      "FT": "0",
+      "FD": "3",
+      "FF": "0",
+      "FS": "2",
+      "PP": "1",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "WEVERTON",
+    "time": "PAL",
+    "posicao": "GOLEIRO",
+    "jogos": 6,
+    "preco": 9.08,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "5",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "TIQUINHO SOARES",
+    "time": "SAN",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 9.07,
+    "scouts": {
+      "G": "1",
+      "A": "1",
+      "FT": "0",
+      "FD": "1",
+      "FF": "6",
+      "FS": "10",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "GIAY",
+    "time": "PAL",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 9,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "2",
+      "FS": "10",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "GUSTAVO GÓMEZ",
+    "time": "PAL",
+    "posicao": "ZAGUEIRO",
+    "jogos": 4,
+    "preco": 8.92,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "0",
+      "FS": "2",
+      "PP": "0",
+      "I": "3",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "IGOR CARIÚS",
+    "time": "SPT",
+    "posicao": "LATERAL",
+    "jogos": 3,
+    "preco": 8.92,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "2",
+      "FF": "1",
+      "FS": "6",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "CUIABANO",
+    "time": "BOT",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 8.89,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "1",
+      "FF": "2",
+      "FS": "6",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ROGÉRIO CENI",
+    "time": "BAH",
+    "posicao": "TÉCNICO",
+    "jogos": 6,
+    "preco": 8.82,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "2"
+    }
+  },
+  {
+    "nome": "CRISTIAN OLIVERA",
+    "time": "GRE",
+    "posicao": "ATACANTE",
+    "jogos": 3,
+    "preco": 8.75,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "1",
+      "FS": "4",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "PEDRO HENRIQUE",
+    "time": "CEA",
+    "posicao": "ATACANTE",
+    "jogos": 2,
+    "preco": 8.57,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ARTUR",
+    "time": "BOT",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 8.53,
+    "scouts": {
+      "G": "0",
+      "A": "2",
+      "FT": "1",
+      "FD": "1",
+      "FF": "3",
+      "FS": "7",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "PEDRO HENRIQUE",
+    "time": "RBB",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 8.48,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "1",
+      "FS": "5",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ROSSI",
+    "time": "FLA",
+    "posicao": "GOLEIRO",
+    "jogos": 6,
+    "preco": 8.42,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "MATHEUS BAHIA",
+    "time": "CEA",
+    "posicao": "LATERAL",
+    "jogos": 3,
+    "preco": 8.37,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "1",
+      "FF": "1",
+      "FS": "1",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "FELIPE LOUREIRO",
+    "time": "VAS",
+    "posicao": "TÉCNICO",
+    "jogos": 0,
+    "preco": 8.36,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "NUNO MOREIRA",
+    "time": "VAS",
+    "posicao": "ATACANTE",
+    "jogos": 5,
+    "preco": 8.24,
+    "scouts": {
+      "G": "1",
+      "A": "1",
+      "FT": "0",
+      "FD": "3",
+      "FF": "2",
+      "FS": "8",
+      "PP": "0",
+      "I": "2",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "CUELLO",
+    "time": "CAM",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 8.22,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "4",
+      "FF": "8",
+      "FS": "13",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "KAIKI BRUNO",
+    "time": "CRU",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 8.16,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "1",
+      "FF": "2",
+      "FS": "11",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LUCAS ROMERO",
+    "time": "CRU",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 8.13,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "2",
+      "FS": "6",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "CHRISTIAN",
+    "time": "CRU",
+    "posicao": "MEIA",
+    "jogos": 4,
+    "preco": 8.08,
+    "scouts": {
+      "G": "1",
+      "A": "1",
+      "FT": "0",
+      "FD": "1",
+      "FF": "1",
+      "FS": "4",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LÉO JARDIM",
+    "time": "VAS",
+    "posicao": "GOLEIRO",
+    "jogos": 5,
+    "preco": 8.04,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "FAGNER",
+    "time": "CRU",
+    "posicao": "LATERAL",
+    "jogos": 3,
+    "preco": 8.04,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "2",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "EVERTON RIBEIRO",
+    "time": "BAH",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 8.03,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "0",
+      "FS": "6",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "VITÃO",
+    "time": "INT",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 7.96,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ERICK PULGA",
+    "time": "BAH",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 7.93,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "2",
+      "FF": "8",
+      "FS": "13",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LUCAS BARBOSA",
+    "time": "RBB",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 7.9,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "4",
+      "FF": "4",
+      "FS": "3",
+      "PP": "0",
+      "I": "2",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "HEREDA",
+    "time": "SPT",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 7.87,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "2",
+      "FF": "3",
+      "FS": "9",
+      "PP": "0",
+      "I": "2",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LUCAS ARCANJO",
+    "time": "VIT",
+    "posicao": "GOLEIRO",
+    "jogos": 5,
+    "preco": 7.86,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JAMERSON",
+    "time": "VIT",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 7.81,
+    "scouts": {
+      "G": "0",
+      "A": "2",
+      "FT": "0",
+      "FD": "4",
+      "FF": "3",
+      "FS": "3",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "FAUSTO VERA",
+    "time": "CAM",
+    "posicao": "MEIA",
+    "jogos": 4,
+    "preco": 7.8,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "3",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "GANSO",
+    "time": "FLU",
+    "posicao": "MEIA",
+    "jogos": 4,
+    "preco": 7.79,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "6",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "FERNANDO",
+    "time": "INT",
+    "posicao": "MEIA",
+    "jogos": 4,
+    "preco": 7.76,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "3",
+      "FF": "0",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "RUBENS",
+    "time": "CAM",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 7.75,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "4",
+      "FS": "3",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LUCAS PITON",
+    "time": "VAS",
+    "posicao": "LATERAL",
+    "jogos": 4,
+    "preco": 7.7,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "2",
+      "FS": "3",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "WILLIAN JOSÉ",
+    "time": "BAH",
+    "posicao": "ATACANTE",
+    "jogos": 4,
+    "preco": 7.69,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "1",
+      "FD": "1",
+      "FF": "1",
+      "FS": "3",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LUCAS RAMON",
+    "time": "MIR",
+    "posicao": "LATERAL",
+    "jogos": 5,
+    "preco": 7.69,
+    "scouts": {
+      "G": "1",
+      "A": "1",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "6",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "EWERTHON",
+    "time": "JUV",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 7.59,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "2",
+      "FF": "4",
+      "FS": "6",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "MARCOS FELIPE",
+    "time": "BAH",
+    "posicao": "GOLEIRO",
+    "jogos": 3,
+    "preco": 7.49,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "FABRÍCIO BRUNO",
+    "time": "CRU",
+    "posicao": "ZAGUEIRO",
+    "jogos": 5,
+    "preco": 7.49,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "0",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JAIR",
+    "time": "BOT",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 7.39,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "3",
+      "FS": "5",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LÉO CONDÉ",
+    "time": "CEA",
+    "posicao": "TÉCNICO",
+    "jogos": 5,
+    "preco": 7.34,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "1"
+    }
+  },
+  {
+    "nome": "ERICK PULGAR",
+    "time": "FLA",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 7.33,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "2",
+      "FF": "0",
+      "FS": "7",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "CLEITON",
+    "time": "RBB",
+    "posicao": "GOLEIRO",
+    "jogos": 5,
+    "preco": 7.32,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "1",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "CRISTALDO",
+    "time": "GRE",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 7.29,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "3",
+      "FS": "8",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "EDSON CARIOCA",
+    "time": "MIR",
+    "posicao": "ATACANTE",
+    "jogos": 5,
+    "preco": 7.17,
+    "scouts": {
+      "G": "1",
+      "A": "2",
+      "FT": "0",
+      "FD": "1",
+      "FF": "6",
+      "FS": "3",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "IGNÁCIO",
+    "time": "FLU",
+    "posicao": "ZAGUEIRO",
+    "jogos": 3,
+    "preco": 7.14,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "0",
+      "FS": "4",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ALAN RUSCHEL",
+    "time": "JUV",
+    "posicao": "LATERAL",
+    "jogos": 3,
+    "preco": 7.14,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "5",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ENNER VALENCIA",
+    "time": "INT",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 7.02,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "1",
+      "FD": "3",
+      "FF": "3",
+      "FS": "7",
+      "PP": "0",
+      "I": "2",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JHON JHON",
+    "time": "RBB",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 6.98,
+    "scouts": {
+      "G": "1",
+      "A": "1",
+      "FT": "0",
+      "FD": "2",
+      "FF": "4",
+      "FS": "11",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "CARRILLO",
+    "time": "COR",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 6.93,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "1",
+      "FS": "4",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "VILLALBA",
+    "time": "CRU",
+    "posicao": "ZAGUEIRO",
+    "jogos": 4,
+    "preco": 6.89,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "2",
+      "FD": "0",
+      "FF": "0",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "CHICO",
+    "time": "SPT",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 6.86,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "3",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ANDRÉS HURTADO",
+    "time": "RBB",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 6.85,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "4",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "KENO",
+    "time": "FLU",
+    "posicao": "ATACANTE",
+    "jogos": 3,
+    "preco": 6.81,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "4",
+      "FS": "5",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "PEPA",
+    "time": "SPT",
+    "posicao": "TÉCNICO",
+    "jogos": 6,
+    "preco": 6.8,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LUCAS MUGNI",
+    "time": "CEA",
+    "posicao": "MEIA",
+    "jogos": 4,
+    "preco": 6.79,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "0",
+      "FF": "2",
+      "FS": "3",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "WAGNER LEONARDO",
+    "time": "GRE",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 6.73,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "1",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "MARLLON",
+    "time": "CEA",
+    "posicao": "ZAGUEIRO",
+    "jogos": 5,
+    "preco": 6.68,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "RAYAN",
+    "time": "VAS",
+    "posicao": "ATACANTE",
+    "jogos": 4,
+    "preco": 6.62,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "2",
+      "FS": "6",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "THIAGO CARPINI",
+    "time": "VIT",
+    "posicao": "TÉCNICO",
+    "jogos": 6,
+    "preco": 6.5,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "1"
+    }
+  },
+  {
+    "nome": "CAÍQUE FRANÇA",
+    "time": "SPT",
+    "posicao": "GOLEIRO",
+    "jogos": 6,
+    "preco": 6.5,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "1",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "FÁBIO MATIAS",
+    "time": "JUV",
+    "posicao": "TÉCNICO",
+    "jogos": 6,
+    "preco": 6.49,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "2"
+    }
+  },
+  {
+    "nome": "HUGO MOURA",
+    "time": "VAS",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 6.49,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "2",
+      "FS": "6",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "VINICINHO",
+    "time": "RBB",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 6.48,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "2",
+      "FF": "3",
+      "FS": "10",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "FABIANO SOUZA",
+    "time": "CEA",
+    "posicao": "LATERAL",
+    "jogos": 4,
+    "preco": 6.47,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "1",
+      "FS": "10",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "VITOR HUGO",
+    "time": "CAM",
+    "posicao": "ZAGUEIRO",
+    "jogos": 1,
+    "preco": 6.45,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "2",
+      "FS": "1",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ZÉ IVALDO",
+    "time": "SAN",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 6.4,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "5",
+      "FS": "2",
+      "PP": "0",
+      "I": "2",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "AGUIRRE",
+    "time": "INT",
+    "posicao": "LATERAL",
+    "jogos": 5,
+    "preco": 6.38,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LUIS MANDACA",
+    "time": "JUV",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 6.36,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "4",
+      "FS": "11",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "NATANAEL",
+    "time": "CAM",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 6.32,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ROLLHEISER",
+    "time": "SAN",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 6.25,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "5",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "GABRIEL",
+    "time": "RBB",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 6.2,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "5",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "TIAGO VOLPI",
+    "time": "GRE",
+    "posicao": "GOLEIRO",
+    "jogos": 6,
+    "preco": 6.19,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "3",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LÉO ORTIZ",
+    "time": "FLA",
+    "posicao": "ZAGUEIRO",
+    "jogos": 5,
+    "preco": 6.11,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ERIC RAMIRES",
+    "time": "RBB",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 6.09,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "2",
+      "FS": "3",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "GABRIEL FUENTES",
+    "time": "FLU",
+    "posicao": "LATERAL",
+    "jogos": 0,
+    "preco": 6,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JADSON",
+    "time": "JUV",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 5.95,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "1",
+      "FF": "1",
+      "FS": "9",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "CRISTIAN",
+    "time": "MIR",
+    "posicao": "ATACANTE",
+    "jogos": 5,
+    "preco": 5.89,
+    "scouts": {
+      "G": "1",
+      "A": "1",
+      "FT": "0",
+      "FD": "7",
+      "FF": "3",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JEMERSON",
+    "time": "GRE",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 5.87,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "1",
+      "FD": "0",
+      "FF": "1",
+      "FS": "3",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "CAIO ALEXANDRE",
+    "time": "BAH",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 5.8,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "5",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "RANIELE",
+    "time": "COR",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 5.78,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "12",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "MARLON",
+    "time": "GRE",
+    "posicao": "LATERAL",
+    "jogos": 3,
+    "preco": 5.78,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "1",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ERICK",
+    "time": "VIT",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 5.78,
+    "scouts": {
+      "G": "0",
+      "A": "2",
+      "FT": "0",
+      "FD": "0",
+      "FF": "2",
+      "FS": "15",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JOÃO PEDRO",
+    "time": "GRE",
+    "posicao": "LATERAL",
+    "jogos": 4,
+    "preco": 5.77,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "GABRIEL",
+    "time": "MIR",
+    "posicao": "MEIA",
+    "jogos": 4,
+    "preco": 5.77,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "0",
+      "FS": "2",
+      "PP": "0",
+      "I": "1",
+      "PS": "1",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "RAFAEL GUANAES",
+    "time": "MIR",
+    "posicao": "TÉCNICO",
+    "jogos": 6,
+    "preco": 5.75,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "1"
+    }
+  },
+  {
+    "nome": "GUZMÁN RODRÍGUEZ",
+    "time": "RBB",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 5.7,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "2",
+      "FF": "2",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ANDRÉ RAMALHO",
+    "time": "COR",
+    "posicao": "ZAGUEIRO",
+    "jogos": 4,
+    "preco": 5.64,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "1",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JOÃO VICTOR",
+    "time": "VAS",
+    "posicao": "ZAGUEIRO",
+    "jogos": 5,
+    "preco": 5.61,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "3",
+      "FS": "3",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LUCAS LIMA",
+    "time": "SPT",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 5.57,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "5",
+      "FF": "1",
+      "FS": "9",
+      "PP": "0",
+      "I": "2",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "FERNANDO SOBRAL",
+    "time": "CEA",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 5.56,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "6",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "IGOR GOMES",
+    "time": "CAM",
+    "posicao": "MEIA",
+    "jogos": 4,
+    "preco": 5.55,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "2",
+      "FS": "1",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "CHRYSTIAN BARLETTA",
+    "time": "SPT",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 5.55,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "2",
+      "FD": "2",
+      "FF": "3",
+      "FS": "3",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "MARCÃO",
+    "time": "JUV",
+    "posicao": "GOLEIRO",
+    "jogos": 2,
+    "preco": 5.54,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JUNIOR ALONSO",
+    "time": "CAM",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 5.52,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "3",
+      "FS": "3",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "WANDERSON",
+    "time": "CRU",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 5.52,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "1",
+      "FD": "2",
+      "FF": "4",
+      "FS": "3",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JOÃO SCHMIDT",
+    "time": "SAN",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 5.51,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "2",
+      "FS": "3",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JAIR",
+    "time": "VAS",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 5.5,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "8",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "DAVID DUARTE",
+    "time": "BAH",
+    "posicao": "ZAGUEIRO",
+    "jogos": 4,
+    "preco": 5.49,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "2",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "CACÁ",
+    "time": "COR",
+    "posicao": "ZAGUEIRO",
+    "jogos": 2,
+    "preco": 5.48,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "3",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "CUÉLLAR",
+    "time": "GRE",
+    "posicao": "MEIA",
+    "jogos": 1,
+    "preco": 5.46,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "1",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JEAN LUCAS",
+    "time": "BAH",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 5.4,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "5",
+      "FS": "6",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "DANIELZINHO",
+    "time": "MIR",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 5.39,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "1",
+      "FD": "1",
+      "FF": "2",
+      "FS": "11",
+      "PP": "0",
+      "I": "0",
+      "PS": "1",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ZÉ LUCAS",
+    "time": "SPT",
+    "posicao": "MEIA",
+    "jogos": 3,
+    "preco": 5.35,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "1",
+      "FS": "5",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "GILBERTO",
+    "time": "JUV",
+    "posicao": "ATACANTE",
+    "jogos": 3,
+    "preco": 5.27,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "4",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "SANTIAGO MINGO",
+    "time": "BAH",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 5.23,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "6",
+      "PP": "0",
+      "I": "2",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "MARLON FREITAS",
+    "time": "BOT",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 5.22,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "0",
+      "FS": "4",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "GABRIEL BRAZÃO",
+    "time": "SAN",
+    "posicao": "GOLEIRO",
+    "jogos": 6,
+    "preco": 5.22,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LUCAS SILVA",
+    "time": "CRU",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 5.18,
+    "scouts": {
+      "G": "0",
+      "A": "2",
+      "FT": "0",
+      "FD": "1",
+      "FF": "2",
+      "FS": "3",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "BARALHAS",
+    "time": "VIT",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 5.11,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "1",
+      "FS": "4",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "RIVERA",
+    "time": "SPT",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 5.1,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "7",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ÊNIO",
+    "time": "JUV",
+    "posicao": "ATACANTE",
+    "jogos": 5,
+    "preco": 5.1,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "2",
+      "FF": "1",
+      "FS": "11",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "GIL",
+    "time": "SAN",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 5.06,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "2",
+      "FS": "1",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "CLAUDINHO",
+    "time": "VIT",
+    "posicao": "LATERAL",
+    "jogos": 6,
+    "preco": 4.99,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "EDENÍLSON",
+    "time": "GRE",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 4.98,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "6",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ADERLAN",
+    "time": "SAN",
+    "posicao": "LATERAL",
+    "jogos": 1,
+    "preco": 4.91,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "DANILO BARBOSA",
+    "time": "BOT",
+    "posicao": "MEIA",
+    "jogos": 1,
+    "preco": 4.87,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "DODI",
+    "time": "GRE",
+    "posicao": "MEIA",
+    "jogos": 4,
+    "preco": 4.85,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "9",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JEAN CARLOS",
+    "time": "JUV",
+    "posicao": "MEIA",
+    "jogos": 4,
+    "preco": 4.82,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "2",
+      "FS": "0",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LUCAS FREITAS",
+    "time": "VAS",
+    "posicao": "ZAGUEIRO",
+    "jogos": 4,
+    "preco": 4.69,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "4",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ANGILERI",
+    "time": "COR",
+    "posicao": "LATERAL",
+    "jogos": 4,
+    "preco": 4.65,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "1",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JOÃO SILVA",
+    "time": "SPT",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 4.62,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "2",
+      "FF": "1",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ANTHONI",
+    "time": "INT",
+    "posicao": "GOLEIRO",
+    "jogos": 6,
+    "preco": 4.6,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "DIEGO PITUCA",
+    "time": "SAN",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 4.51,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "2",
+      "FS": "4",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "IGOR RABELLO",
+    "time": "CAM",
+    "posicao": "ZAGUEIRO",
+    "jogos": 1,
+    "preco": 4.49,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "GUSTAVO MOSQUITO",
+    "time": "VIT",
+    "posicao": "ATACANTE",
+    "jogos": 5,
+    "preco": 4.42,
+    "scouts": {
+      "G": "0",
+      "A": "1",
+      "FT": "0",
+      "FD": "3",
+      "FF": "2",
+      "FS": "1",
+      "PP": "0",
+      "I": "2",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "FERNANDO MIGUEL",
+    "time": "CEA",
+    "posicao": "GOLEIRO",
+    "jogos": 2,
+    "preco": 4.29,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "1",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ANÍBAL MORENO",
+    "time": "PAL",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 4.29,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "1",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "RODRIGO SAM",
+    "time": "JUV",
+    "posicao": "ZAGUEIRO",
+    "jogos": 1,
+    "preco": 4.28,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "1",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "GALEANO",
+    "time": "CEA",
+    "posicao": "ATACANTE",
+    "jogos": 5,
+    "preco": 4.25,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "3",
+      "FF": "1",
+      "FS": "7",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JANDERSON",
+    "time": "VIT",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 3.82,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "1",
+      "FS": "2",
+      "PP": "0",
+      "I": "2",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "FREYTES",
+    "time": "FLU",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 3.82,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "1",
+      "FS": "3",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "LUCAS HALTER",
+    "time": "VIT",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 3.57,
+    "scouts": {
+      "G": "1",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "1",
+      "FS": "0",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JEMMES",
+    "time": "MIR",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 3.43,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "2",
+      "FS": "1",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "ALEX MURALHA",
+    "time": "MIR",
+    "posicao": "GOLEIRO",
+    "jogos": 6,
+    "preco": 3.34,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "1",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "NEGUEBA",
+    "time": "MIR",
+    "posicao": "ATACANTE",
+    "jogos": 3,
+    "preco": 3.23,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "2",
+      "FS": "7",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "WILLIAN MACHADO",
+    "time": "CEA",
+    "posicao": "ZAGUEIRO",
+    "jogos": 5,
+    "preco": 3.2,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "2",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "MARCOS PAULO",
+    "time": "JUV",
+    "posicao": "LATERAL",
+    "jogos": 2,
+    "preco": 3.2,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "RONALD LOPES",
+    "time": "VIT",
+    "posicao": "MEIA",
+    "jogos": 4,
+    "preco": 3.12,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "0",
+      "FS": "2",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JOSÉ ALDO",
+    "time": "MIR",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 2.98,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "1",
+      "FS": "2",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JOSÉ MARTÍNEZ",
+    "time": "COR",
+    "posicao": "MEIA",
+    "jogos": 4,
+    "preco": 2.93,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "5",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "DU QUEIROZ",
+    "time": "SPT",
+    "posicao": "MEIA",
+    "jogos": 6,
+    "preco": 2.85,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "3",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "EVERALDO",
+    "time": "FLU",
+    "posicao": "ATACANTE",
+    "jogos": 6,
+    "preco": 2.74,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "EDU",
+    "time": "VIT",
+    "posicao": "ZAGUEIRO",
+    "jogos": 1,
+    "preco": 2.6,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "GIRALDO",
+    "time": "JUV",
+    "posicao": "MEIA",
+    "jogos": 5,
+    "preco": 2.59,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "2",
+      "FS": "3",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "DAVID RICARDO",
+    "time": "BOT",
+    "posicao": "ZAGUEIRO",
+    "jogos": 1,
+    "preco": 2.31,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "0",
+      "FF": "0",
+      "FS": "0",
+      "PP": "0",
+      "I": "0",
+      "PS": "0",
+      "V": "0"
+    }
+  },
+  {
+    "nome": "JOÃO VICTOR",
+    "time": "MIR",
+    "posicao": "ZAGUEIRO",
+    "jogos": 6,
+    "preco": 1.71,
+    "scouts": {
+      "G": "0",
+      "A": "0",
+      "FT": "0",
+      "FD": "1",
+      "FF": "1",
+      "FS": "2",
+      "PP": "0",
+      "I": "1",
+      "PS": "0",
+      "V": "0"
+    }
+  }
+]

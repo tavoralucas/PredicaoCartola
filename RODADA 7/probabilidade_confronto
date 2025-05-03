@@ -1,0 +1,72 @@
+[
+    {
+      "MANDANTE": "FLUMINENSE",
+      "PVM": "41.07",
+      "PE": "34.10",
+      "PVV": "24.83",
+      "VISITANTE": "SPORT"
+    },
+    {
+      "MANDANTE": "VASCO DA GAMA",
+      "PVM": "34.79",
+      "PE": "29.68",
+      "PVV": "35.52",
+      "VISITANTE": "PALMEIRAS"
+    },
+    {
+      "MANDANTE": "CORINTHIANS",
+      "PVM": "32.67",
+      "PE": "36.18",
+      "PVV": "31.15",
+      "VISITANTE": "INTERNACIONAL"
+    },
+    {
+      "MANDANTE": "SÃO PAULO",
+      "PVM": "33.94",
+      "PE": "47.89",
+      "PVV": "18.17",
+      "VISITANTE": "FORTALEZA"
+    },
+    {
+      "MANDANTE": "BRAGANTINO",
+      "PVM": "36.66",
+      "PE": "43.39",
+      "PVV": "19.95",
+      "VISITANTE": "MIRASSOL"
+    },
+    {
+      "MANDANTE": "CRUZEIRO",
+      "PVM": "42.86",
+      "PE": "23.10",
+      "PVV": "34.03",
+      "VISITANTE": "FLAMENGO"
+    },
+    {
+      "MANDANTE": "GRÊMIO",
+      "PVM": "42.91",
+      "PE": "31.02",
+      "PVV": "26.06",
+      "VISITANTE": "SANTOS"
+    },
+    {
+      "MANDANTE": "BAHIA",
+      "PVM": "39.51",
+      "PE": "41.42",
+      "PVV": "19.07",
+      "VISITANTE": "BOTAFOGO"
+    },
+    {
+      "MANDANTE": "CEARÁ",
+      "PVM": "35.10",
+      "PE": "44.50",
+      "PVV": "20.40",
+      "VISITANTE": "VITÓRIA"
+    },
+    {
+      "MANDANTE": "JUVENTUDE",
+      "PVM": "41.72",
+      "PE": "37.51",
+      "PVV": "20.76",
+      "VISITANTE": "ATLÉTICO"
+    }
+  ]
