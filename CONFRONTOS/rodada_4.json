@@ -1,0 +1,116 @@
+{
+    "rodada": 4,
+    "jogos": [
+      {
+        "estadio": "Castelão (CE)",
+        "data": "2025-04-15",
+        "dia": "Terça",
+        "hora": "21:30",
+        "mandante": "Ceará",
+        "visitante": "Vasco",
+        "placarMandante": 2,
+        "placarVisitante": 1,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Nilton Santos (Engenhão)",
+        "data": "2025-04-16",
+        "dia": "Quarta",
+        "hora": "18:30",
+        "mandante": "Botafogo",
+        "visitante": "São Paulo",
+        "placarMandante": 2,
+        "placarVisitante": 2,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Maião",
+        "data": "2025-04-16",
+        "dia": "Quarta",
+        "hora": "19:00",
+        "mandante": "Mirassol",
+        "visitante": "Grêmio",
+        "placarMandante": 4,
+        "placarVisitante": 1,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Ilha do Retiro",
+        "data": "2025-04-16",
+        "dia": "Quarta",
+        "hora": "19:00",
+        "mandante": "Sport",
+        "visitante": "Bragantino",
+        "placarMandante": 0,
+        "placarVisitante": 1,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Neo Química Arena",
+        "data": "2025-04-16",
+        "dia": "Quarta",
+        "hora": "19:30",
+        "mandante": "Corinthians",
+        "visitante": "Fluminense",
+        "placarMandante": 0,
+        "placarVisitante": 2,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Beira-Rio",
+        "data": "2025-04-16",
+        "dia": "Quarta",
+        "hora": "19:30",
+        "mandante": "Internacional",
+        "visitante": "Palmeiras",
+        "placarMandante": 0,
+        "placarVisitante": 1,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Maracanã",
+        "data": "2025-04-16",
+        "dia": "Quarta",
+        "hora": "21:30",
+        "mandante": "Flamengo",
+        "visitante": "Juventude",
+        "placarMandante": 6,
+        "placarVisitante": 0,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Vila Belmiro",
+        "data": "2025-04-16",
+        "dia": "Quarta",
+        "hora": "21:30",
+        "mandante": "Santos",
+        "visitante": "Atlético-MG",
+        "placarMandante": 2,
+        "placarVisitante": 0,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Barradão",
+        "data": "2025-04-16",
+        "dia": "Quarta",
+        "hora": "21:30",
+        "mandante": "Vitória",
+        "visitante": "Fortaleza",
+        "placarMandante": 2,
+        "placarVisitante": 1,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Mineirão",
+        "data": "2025-04-17",
+        "dia": "Quinta",
+        "hora": "21:30",
+        "mandante": "Cruzeiro",
+        "visitante": "Bahia",
+        "placarMandante": 3,
+        "placarVisitante": 0,
+        "detalhes": "saiba como foi"
+      }
+    ]
+  }
+  

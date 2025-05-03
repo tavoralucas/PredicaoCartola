@@ -1,0 +1,116 @@
+{
+    "rodada": 5,
+    "jogos": [
+      {
+        "estadio": "Neo Química Arena",
+        "data": "2025-04-19",
+        "dia": "Sábado",
+        "hora": "16:00",
+        "mandante": "Corinthians",
+        "visitante": "Sport",
+        "placarMandante": 2,
+        "placarVisitante": 1,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Maracanã",
+        "data": "2025-04-19",
+        "dia": "Sábado",
+        "hora": "18:30",
+        "mandante": "Vasco",
+        "visitante": "Flamengo",
+        "placarMandante": 0,
+        "placarVisitante": 0,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Arena do Grêmio",
+        "data": "2025-04-19",
+        "dia": "Sábado",
+        "hora": "21:00",
+        "mandante": "Grêmio",
+        "visitante": "Internacional",
+        "placarMandante": 1,
+        "placarVisitante": 1,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Alfredo Jaconi",
+        "data": "2025-04-20",
+        "dia": "Domingo",
+        "hora": "11:00",
+        "mandante": "Juventude",
+        "visitante": "Mirassol",
+        "placarMandante": 2,
+        "placarVisitante": 2,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Morumbis",
+        "data": "2025-04-20",
+        "dia": "Domingo",
+        "hora": "16:00",
+        "mandante": "São Paulo",
+        "visitante": "Santos",
+        "placarMandante": 2,
+        "placarVisitante": 1,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Mineirão",
+        "data": "2025-04-20",
+        "dia": "Domingo",
+        "hora": "16:00",
+        "mandante": "Atlético-MG",
+        "visitante": "Botafogo",
+        "placarMandante": 1,
+        "placarVisitante": 0,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Maracanã",
+        "data": "2025-04-20",
+        "dia": "Domingo",
+        "hora": "18:30",
+        "mandante": "Fluminense",
+        "visitante": "Vitória",
+        "placarMandante": 1,
+        "placarVisitante": 1,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Castelão (CE)",
+        "data": "2025-04-20",
+        "dia": "Domingo",
+        "hora": "18:30",
+        "mandante": "Fortaleza",
+        "visitante": "Palmeiras",
+        "placarMandante": 1,
+        "placarVisitante": 2,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Nabi Abi Chedid",
+        "data": "2025-04-20",
+        "dia": "Domingo",
+        "hora": "20:30",
+        "mandante": "Bragantino",
+        "visitante": "Cruzeiro",
+        "placarMandante": 1,
+        "placarVisitante": 0,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Casa de Apostas Arena Fonte Nova",
+        "data": "2025-04-21",
+        "dia": "Segunda",
+        "hora": "20:00",
+        "mandante": "Bahia",
+        "visitante": "Ceará",
+        "placarMandante": 1,
+        "placarVisitante": 0,
+        "detalhes": "saiba como foi"
+      }
+    ]
+  }
+  

@@ -1,0 +1,116 @@
+{
+    "rodada": 6,
+    "jogos": [
+      {
+        "estadio": "Beira-Rio",
+        "data": "2025-04-26",
+        "dia": "Sábado",
+        "hora": "16:00",
+        "mandante": "Internacional",
+        "visitante": "Juventude",
+        "placarMandante": 3,
+        "placarVisitante": 1,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Maião",
+        "data": "2025-04-26",
+        "dia": "Sábado",
+        "hora": "18:30",
+        "mandante": "Mirassol",
+        "visitante": "Atlético-MG",
+        "placarMandante": 2,
+        "placarVisitante": 2,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Castelão (CE)",
+        "data": "2025-04-26",
+        "dia": "Sábado",
+        "hora": "18:30",
+        "mandante": "Ceará",
+        "visitante": "São Paulo",
+        "placarMandante": 1,
+        "placarVisitante": 1,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Ilha do Retiro",
+        "data": "2025-04-26",
+        "dia": "Sábado",
+        "hora": "20:00",
+        "mandante": "Sport",
+        "visitante": "Fortaleza",
+        "placarMandante": 0,
+        "placarVisitante": 0,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Nilton Santos (Engenhão)",
+        "data": "2025-04-26",
+        "dia": "Sábado",
+        "hora": "21:00",
+        "mandante": "Botafogo",
+        "visitante": "Fluminense",
+        "placarMandante": 2,
+        "placarVisitante": 0,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Maracanã",
+        "data": "2025-04-27",
+        "dia": "Domingo",
+        "hora": "16:00",
+        "mandante": "Flamengo",
+        "visitante": "Corinthians",
+        "placarMandante": 4,
+        "placarVisitante": 0,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Allianz Parque",
+        "data": "2025-04-27",
+        "dia": "Domingo",
+        "hora": "18:30",
+        "mandante": "Palmeiras",
+        "visitante": "Bahia",
+        "placarMandante": 0,
+        "placarVisitante": 1,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Parque do Sabiá",
+        "data": "2025-04-27",
+        "dia": "Domingo",
+        "hora": "18:30",
+        "mandante": "Cruzeiro",
+        "visitante": "Vasco",
+        "placarMandante": 1,
+        "placarVisitante": 0,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Barradão",
+        "data": "2025-04-27",
+        "dia": "Domingo",
+        "hora": "18:30",
+        "mandante": "Vitória",
+        "visitante": "Grêmio",
+        "placarMandante": 1,
+        "placarVisitante": 1,
+        "detalhes": "saiba como foi"
+      },
+      {
+        "estadio": "Vila Belmiro",
+        "data": "2025-04-27",
+        "dia": "Domingo",
+        "hora": "20:30",
+        "mandante": "Santos",
+        "visitante": "Bragantino",
+        "placarMandante": 1,
+        "placarVisitante": 2,
+        "detalhes": "saiba como foi"
+      }
+    ]
+  }
+  

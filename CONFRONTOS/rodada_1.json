@@ -1,0 +1,116 @@
+{
+  "rodada": 1,
+  "jogos": [
+    {
+      "estadio": "Morumbí",
+      "data": "2025-03-29",
+      "dia": "Sábado",
+      "hora": "18:30",
+      "mandante": "São Paulo",
+      "visitante": "Sport",
+      "placarMandante": 0,
+      "placarVisitante": 0,
+      "detalhes": "saiba como foi"
+    },
+    {
+      "estadio": "Mineirão",
+      "data": "2025-03-29",
+      "dia": "Sábado",
+      "hora": "18:30",
+      "mandante": "Cruzeiro",
+      "visitante": "Mirassol",
+      "placarMandante": 2,
+      "placarVisitante": 1,
+      "detalhes": "saiba como foi"
+    },
+    {
+      "estadio": "Arena do Grêmio",
+      "data": "2025-03-29",
+      "dia": "Sábado",
+      "hora": "18:30",
+      "mandante": "Grêmio",
+      "visitante": "Atlético-MG",
+      "placarMandante": 2,
+      "placarVisitante": 1,
+      "detalhes": "saiba como foi"
+    },
+    {
+      "estadio": "Castelão (CE)",
+      "data": "2025-03-29",
+      "dia": "Sábado",
+      "hora": "18:30",
+      "mandante": "Fortaleza",
+      "visitante": "Fluminense",
+      "placarMandante": 2,
+      "placarVisitante": 0,
+      "detalhes": "saiba como foi"
+    },
+    {
+      "estadio": "Alfredo Jaconi",
+      "data": "2025-03-29",
+      "dia": "Sábado",
+      "hora": "18:30",
+      "mandante": "Juventude",
+      "visitante": "Vitória",
+      "placarMandante": 2,
+      "placarVisitante": 0,
+      "detalhes": "saiba como foi"
+    },
+    {
+      "estadio": "Maracanã",
+      "data": "2025-03-29",
+      "dia": "Sábado",
+      "hora": "21:00",
+      "mandante": "Flamengo",
+      "visitante": "Internacional",
+      "placarMandante": 1,
+      "placarVisitante": 1,
+      "detalhes": "saiba como foi"
+    },
+    {
+      "estadio": "Allianz Parque",
+      "data": "2025-03-30",
+      "dia": "Domingo",
+      "hora": "16:00",
+      "mandante": "Palmeiras",
+      "visitante": "Botafogo",
+      "placarMandante": 0,
+      "placarVisitante": 0,
+      "detalhes": "saiba como foi"
+    },
+    {
+      "estadio": "São Januário",
+      "data": "2025-03-30",
+      "dia": "Domingo",
+      "hora": "18:30",
+      "mandante": "Vasco",
+      "visitante": "Santos",
+      "placarMandante": 2,
+      "placarVisitante": 1,
+      "detalhes": "saiba como foi"
+    },
+    {
+      "estadio": "Casa de Apostas Arena Fonte Nova",
+      "data": "2025-03-30",
+      "dia": "Domingo",
+      "hora": "20:00",
+      "mandante": "Bahia",
+      "visitante": "Corinthians",
+      "placarMandante": 1,
+      "placarVisitante": 1,
+      "detalhes": "saiba como foi"
+    },
+    {
+      "estadio": "Nabi Abi Chedid",
+      "data": "2025-03-31",
+      "dia": "Segunda",
+      "hora": "20:00",
+      "mandante": "Bragantino",
+      "visitante": "Ceará",
+      "placarMandante": 2,
+      "placarVisitante": 2,
+      "detalhes": "saiba como foi"
+    }
+  ]
+}
+```
