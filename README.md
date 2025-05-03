@@ -1,4 +1,4 @@
-# PredicaoCartola
+# Predicao para uso no Cartola ou Apostas no Brasileirão Serie A - 2025
 
 ## Objetivo do Projeto
 
