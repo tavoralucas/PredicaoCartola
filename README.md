@@ -1,7 +1,5 @@
 # Predicao para uso no Cartola ou Apostas no Brasileirão Serie A - 2025
 
-## Objetivo do Projeto
-
 O projeto PredicaoCartola tem como objetivo analisar dados estatísticos de confrontos e scouts de jogadores do Campeonato Brasileiro para sugerir apostas, escalações e estratégias com maior potencial de sucesso no fantasy game Cartola FC. Utilizando probabilidades de resultados, desempenho dos times como mandante/visitante e scouts individuais dos jogadores, o sistema auxilia o usuário a tomar decisões mais embasadas para cada rodada.
 
 ## Legenda das Siglas
